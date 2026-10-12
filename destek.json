@@ -1,0 +1,21 @@
+{
+  "surum": 1,
+  "sponsor": {
+    "id": "ilk-ortaklik",
+    "tur": "ortaklik",
+    "baslik": { "tr": "", "en": "" },
+    "metin": { "tr": "", "en": "" },
+    "dugme": { "tr": "Siteye git", "en": "Visit site" },
+    "link": "",
+    "gorsel": "",
+    "bitis": ""
+  },
+  "bagis": {
+    "link": "",
+    "metin": { "tr": "Bağış yap", "en": "Donate" }
+  },
+  "destek": {
+    "link": "https://github.com/mfkarabulut01/steam-ledger/issues",
+    "metin": { "tr": "Destek ve öneri", "en": "Support & feedback" }
+  }
+}
